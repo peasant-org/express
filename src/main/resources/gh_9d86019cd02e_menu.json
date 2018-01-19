@@ -1,0 +1,27 @@
+{
+    "button": [
+        {
+            "type": "view",
+            "name": "查快递",
+            "url": "http://m.kuaidi100.com/"
+        },
+        {
+            "type": "view",
+            "name": "寄件",
+            "url": "http://dawnrise.cn/express/delivernew"
+        },
+        {
+            "name": "测试",
+            "sub_button": [
+                {
+                    "type": "view",
+                    "name": "寄快递test",
+                    "url": "http://dawnrise.cn/express/test"
+                },
+                {
+                    "type": "click",
+                    "name": "寄快递c",
+                    "key": "V0001_deliverorder"
+                }]
+        }]
+}

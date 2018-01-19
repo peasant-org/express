@@ -1,0 +1,10 @@
+{
+    "V0001_deliverorder": [
+        {
+            "title": "寄快递",
+            "description": "点击进入面对面寄件，下订单",
+            "picUrl": "http://dawnrise.cn/express/img/newexpress.jpg",
+            "url": "http://dawnrise.cn/express/delivernew"
+        }
+    ]
+}
